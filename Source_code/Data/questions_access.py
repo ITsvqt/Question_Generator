@@ -1,4 +1,4 @@
-from Data.questions_data import questions_and_answers as q_a
+from Data.questions_data import core_questions_and_answers as q_a
 
 def get_questions_count() -> int:
     """
