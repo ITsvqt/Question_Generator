@@ -5,5 +5,4 @@
 * Get asked a random question and then see the answer *
 * Use it for leaning *
 
-New text
 
